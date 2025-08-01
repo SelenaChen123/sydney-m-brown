@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sydney-m-brown/static/css/main.0cfa695b.css",
-    "main.js": "/sydney-m-brown/static/js/main.bf3d851b.js",
+    "main.js": "/sydney-m-brown/static/js/main.80bc74f6.js",
     "static/js/453.8e950a0a.chunk.js": "/sydney-m-brown/static/js/453.8e950a0a.chunk.js",
     "index.html": "/sydney-m-brown/index.html",
     "main.0cfa695b.css.map": "/sydney-m-brown/static/css/main.0cfa695b.css.map",
-    "main.bf3d851b.js.map": "/sydney-m-brown/static/js/main.bf3d851b.js.map",
+    "main.80bc74f6.js.map": "/sydney-m-brown/static/js/main.80bc74f6.js.map",
     "453.8e950a0a.chunk.js.map": "/sydney-m-brown/static/js/453.8e950a0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cfa695b.css",
-    "static/js/main.bf3d851b.js"
+    "static/js/main.80bc74f6.js"
   ]
 }
