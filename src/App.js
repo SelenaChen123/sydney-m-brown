@@ -6,7 +6,7 @@ import Experience from "./pages/experience";
 import Portfolio from "./pages/portfolio";
 import Contact from "./pages/contact";
 
-const router = createBrowserRouter([
+const routes = [
   {
     path: "",
     element: <Home />,
@@ -27,7 +27,9 @@ const router = createBrowserRouter([
     path: "/Contact",
     element: <Contact />,
   },
-]);
+];
+
+const router = createBrowserRouter(routes, { basename: "/sydney-m-brown" });
 
 function App() {
   return <RouterProvider router={router} />;
